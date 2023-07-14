@@ -1,5 +1,5 @@
 # Galactic-Gazette
-Welcome to the Galactic Gazette, your cosmic blogging destination for all things space-related. Explore captivating stories, breaking space news, and stunning visuals that will transport you to the wonders of the universe. Join our community of space enthusiasts and embark on an extraordinary blogging journey at the Galactic Gazette..
+Welcome to the Galactic Gazette, your cosmic blogging destination for all things space-related. Explore captivating stories, breaking space news, and stunning visuals that will transport you to the wonders of the universe. Join our community of space enthusiasts and embark on an extraordinary blogging journey at the Galactic Gazette.
 
 ## Download wp-content folder and Overwrite your existing one and re-run the server.
 
